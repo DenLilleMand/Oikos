@@ -1,0 +1,17 @@
+package mediator;
+
+public enum FileCase 
+{
+	NONE,
+	NEWEXCEL,
+	EDITEXCEL,
+	FILE,
+	NEWFILE,
+	EDITFILE,
+	NEWPDF,
+	EDITPDF,  
+	DELETEFILE,
+	EDITNEWEXCEL,
+	EDITNEWPDF
+
+}
